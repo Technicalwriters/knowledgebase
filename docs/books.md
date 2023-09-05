@@ -1,6 +1,8 @@
 # Книги
 
-книги были перенесены из гугл таблицы https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0ovM/edit#gid=0
+Книги были перенесены из гугл таблицы
+
+https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0ovM/edit#gid=0
 
 ## Содержание
 
@@ -73,8 +75,9 @@
 
 ### UML
 
-Мартин Фаулер	Введение в UML	https://www.books.ru/books/uml-osnovy-3-e-izdanie-fail-pdf-595320/?show=1#	русский 
-Джеймс Рамбо, М. Блаха	UML 2.0. Объектно-ориентированное моделирование и разработка	https://www.litres.ru/book/dzheyms-rambo/uml-2-0-obektno-orientirovannoe-modelirovanie-i-razrabotka-11814149/	русский 
+[Мартин Фаулер	Введение в UML (русский )](https://www.books.ru/books/uml-osnovy-3-e-izdanie-fail-pdf-595320/?show=1#)
+
+[Джеймс Рамбо, М. Блаха	UML 2.0. Объектно-ориентированное моделирование и разработка (русский)](https://www.litres.ru/book/dzheyms-rambo/uml-2-0-obektno-orientirovannoe-modelirovanie-i-razrabotka-11814149/)
 
 ### DITA
 
