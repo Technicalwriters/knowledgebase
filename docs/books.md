@@ -29,7 +29,7 @@ https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0
 
 [Marni Nispel Creating Documentation in an Agile Scrum Environment (английский)](https://www.amazon.com/dp/1535231742?ref_=cm_sw_r_cp_ud_dp_X88BV2JC9HCYV8K5VKWH)
 
-[Джулия Кэмерон - Право писат (русский)](https://www.ozon.ru/product/pravo-pisat-kemeron-dzhuliya-141698945/?sh=EhimiWsbqA&utm_campaign=productpage_link&utm_medium=share_button&utm_source=smm)
+[Джулия Кэмерон - Право писать (русский)](https://www.ozon.ru/product/pravo-pisat-kemeron-dzhuliya-141698945/?sh=EhimiWsbqA&utm_campaign=productpage_link&utm_medium=share_button&utm_source=smm)
 
 [Anne Gentle - Docs Like Code (английский)](https://books.google.ru/books?id=krM7DwAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false)
 
