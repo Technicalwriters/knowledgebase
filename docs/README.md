@@ -8,7 +8,9 @@
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="16"> [Книги](./books.md)
 
-[Статьи](./articles.md)
+<i class="fa-regular fa-newspaper"></i>
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/newspaper.svg" width="16"> [Статьи](./articles.md)
 
 [Чат техподдержки](https://t.me/+aRIgLMsXxxJiYTQy)
 
