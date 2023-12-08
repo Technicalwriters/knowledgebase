@@ -45,7 +45,7 @@ https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0
 | --- | --- | --- |
 | [Джедайские техники конструктивного общения](https://www.litres.ru/book/aleksandr-orlov-23090507/dzhedayskie-tehniki-konstruktivnogo-obscheniya-54056267/chitat-onlayn/) | Орлов Александр | русский |
 
-## UI / UX <a name="ui-ux"></a>
+## UI/UX <a name="ui-ux"></a>
 
 | Название и ссылка | Автор(ы) | Язык |
 | --- | --- | --- |
