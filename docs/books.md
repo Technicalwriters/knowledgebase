@@ -15,6 +15,7 @@ https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0
 ## Книги для технического писателя <a name="tech-doc"></a>
 
 | Название и ссылка | Автор(ы) | Язык |
+| --- | --- | --- |
 | [Пиши, сокращай](https://alpinabook.ru/catalog/book-pishi-sokrashchay/) | Ильяхов Максим, Сарычева Людмила | русский |
 | [Разработка документации пользователя программного продукта](https://lavkaknig.com/razrabotka-dokumentatsii-polzovatelya-programmnogo-produkta-metodika-i-stil-izlozheniya/) | Кагарлицкий Юрий | русский |
 | [Профессия Технический писатель, или Рыцари клавиатуры](https://www.rulit.me/books/professiya-tehnicheskij-pisatel-ili-rycari-klaviatury-read-689236-1.html) | Михайлов Александр | русский |
@@ -41,11 +42,13 @@ https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0
 ## Повышение soft skills <a name="soft-skills"></a>
 
 | Название и ссылка | Автор(ы) | Язык |
+| --- | --- | --- |
 | [Джедайские техники конструктивного общения](https://www.litres.ru/book/aleksandr-orlov-23090507/dzhedayskie-tehniki-konstruktivnogo-obscheniya-54056267/chitat-onlayn/) | Орлов Александр | русский |
 
 ## UI / UX <a name="ui-ux"></a>
 
 | Название и ссылка | Автор(ы) | Язык |
+| --- | --- | --- |
 | [Пользовательский интерфейс. Электронный учебник](https://bureau.ru/projects/book-ui/) | Илья Бирман | русский |
 | [Интерфейс: новые направления в проектировании компьютерных систем](https://libking.ru/books/sci-/sci-tech/129607-dzheff-raskin-interfeys-novye-napravleniya-v-proektirovanii-kompyuternyh-sistem.html#book) | Джефф Раскин | русский |
 | [100 главных принципов дизайна](https://www.labirint.ru/books/795013/) | Уэйншенк Сьюзан | русский |
@@ -54,11 +57,13 @@ https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0
 ## UML <a name="uml"></a>
 
 | Название и ссылка | Автор(ы) | Язык |
+| --- | --- | --- |
 | [Ведение в UML](https://www.books.ru/books/uml-osnovy-3-e-izdanie-fail-pdf-595320/?show=1#) | Мартин Фаулер | русский |
 | [UML 2.0. Объектно-ориентированное моделирование и разработка](https://www.litres.ru/book/dzheyms-rambo/uml-2-0-obektno-orientirovannoe-modelirovanie-i-razrabotka-11814149/) | Джеймс Рамбо, М. Блаха | русский |
 
 ## DITA <a name="dita"></a>
 
 | Название и ссылка | Автор(ы) | Язык |
+| --- | --- | --- |
 | [DITA Best Practices: A Roadmap for Writing, Editing, and Architecting in DITA ()](https://www.amazon.com/DITA-Best-Practices-Roadmap-Architecting/dp/0132480522/ref=sr_1_1?ie=UTF8&qid=1447735297&sr=8-1&keywords=dita+best+practices) | Laura Bellamy | английский |
 | [DITA Configuration and Specialization Tutorials](http://xiruss.org/tutorials/dita-specialization/dita-specialization-tutorial.pdf) |  | английский |
