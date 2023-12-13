@@ -6,12 +6,16 @@
 
 Здесь будут полезные ссылки на ресурсы для технических писателей и другие, показавшиеся нам интересными, материалы.
 
-[Книги](./books.md)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="14"> [Книги](./books.md)
 
-[Чат техподдержки](https://t.me/+aRIgLMsXxxJiYTQy)
+<i class="fa-regular fa-newspaper"></i>
 
-[Канал публикации обновлений сайта](https://t.me/techwriterknowledgebase)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/newspaper.svg" width="16"> [Статьи](./articles.md)
 
-[Дружественный чат технических писателей](https://t.me/technicalwriters)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="16"> [Чат техподдержки](https://t.me/+aRIgLMsXxxJiYTQy)
 
-[Дружественный подкаст для технических писателей](https://t.me/techwritersays)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="16"> [Канал публикации обновлений сайта](https://t.me/techwriterknowledgebase)
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="16"> [Дружественный чат технических писателей](https://t.me/technicalwriters)
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="16"> [Дружественный подкаст для технических писателей](https://t.me/techwritersays)
