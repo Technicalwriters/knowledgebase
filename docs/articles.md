@@ -1,8 +1,6 @@
 # Статьи
 
-Статьи были перенесены из гугл таблицы
-
-https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0ovM/edit#gid=1990472181
+Статьи были перенесены из [гугл таблицы](https://docs.google.com/spreadsheets/d/1Io6aswFd7UUpFmZcMrXsUovsdUGGoMpFCeUrGea0ovM/edit#gid=1990472181).
 
 ## Содержание
 
