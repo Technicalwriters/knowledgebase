@@ -6,8 +6,6 @@
 
 Здесь будут полезные ссылки на ресурсы для технических писателей и другие, показавшиеся нам интересными, материалы.
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="14"> [Книги](./books.md)
-
 <i class="fa-regular fa-newspaper"></i>
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/newspaper.svg" width="16"> [Статьи](./articles.md)
